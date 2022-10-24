@@ -51,7 +51,7 @@ header .overlay {
 
 @media (pointer: coarse) and (hover: none) {
   header {
-    background: url('https://images.unsplash.com/photo-1608476428392-a96ea93142bd?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=3500&q=80') black no-repeat center center scroll;
+    background: url('https://gd-hbimg.huaban.com/12366df8163af1c052cd80a3d4111b8f6d90b4e953980-OWjMPb_fw658') black no-repeat center center scroll;
   }
   header video {
     display: none;
